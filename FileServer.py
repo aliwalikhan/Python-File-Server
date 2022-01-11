@@ -27,7 +27,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(basedir,'db.
 db = SQLAlchemy(app) #db object.
 
 
-app.config['UPLOAD_FOLDER'] = "D:\\XgridStuff\\Storage" #folder to obtain uploaded files to move to respective directories.
+app.config['UPLOAD_FOLDER'] = "D:\\RandStuff\\Storage" #folder to obtain uploaded files to move to respective directories.
 
 
 #AUTHORIZATION STUFF WITH TOKENS
