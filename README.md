@@ -9,6 +9,6 @@ Swagger Inspector and Postman were used to test the endpoints, with the former b
 Swagger Inspector can be accessed directly from the browser via: https://inspector.swagger.io/builder
 Postman can be dowloaded from: https://www.postman.com/tools
 
-Place the files in the following folder: "D:\XgridStuff". If the directory does not exist, create it.
+Place the files in the following folder: "D:\RandStuff". If the directory does not exist, create it.
 Run the server by via 'python FileServer.py' from the windows command prompt or your IDE.
 The server is hosted on http://localhost:5000/
